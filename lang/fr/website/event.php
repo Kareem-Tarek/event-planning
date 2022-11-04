@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'provided_offers'          => 'Offres proposées',
+    'Oh_snap'                  => 'Oh claquement!',
+    'no_offers'                => "Il n'y a pas encore d'offres, ajoutez une offre maintenant.",
+    'event_card'               => "Carte d'événement",
+    'no_tags'                  => "Il ñ'y a pas Mots clés.",
+    'add_offer_now'            => 'Ajoutez votre offre maintenant',
+    'offer_value'              => "Valeur de l'offre",
+    'you_will_get'             => 'Tu auras',
+    'tags'                     => 'Mots clés',
+    'offer_details'            => "Détails de l'offre",
+    'add_offer'                => 'Ajoutez votre offre',
+    'add_event'                => 'Ajouter un évènement',
+    'your_latest_events'       => 'Vos derniers événements',
+    'latest_events'            => 'Derniers évènements',
+    'no_events'                => 'Aucun événement pour le moment.',
+    'to_add'                   => 'Pour ajouter une offre, vous devez',
+    'register'                 => "S'inscrire",
+    'log_in'                   => 'Connexion',
+    'or'                       => 'ou',
+    'recent_event'             => 'Événements les plus récents',
+    'expired'                  => "l'événement a expiré",
+    'status'                   => 'Statut:',
+    'budget'                   => 'Budget:',
+];

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'provided_offers'          => 'Provided Offers',
+    'Oh_snap'                  => 'Oh snap!',
+    'no_offers'                => 'There are no offers yet, add an offer now.',
+    'event_card'               => 'Event Card',
+    'no_tags'                  => 'There are no tags.',
+    'add_offer_now'            => 'Add your offer now',
+    'offer_value'              => 'Offer value',
+    'you_will_get'             => 'You will get',
+    'tags'                     => 'Tags',
+    'offer_details'            => 'Offer details',
+    'add_offer'                => 'Add your offer',
+    'add_event'                => 'Add Event',
+    'your_latest_events'       => 'Your Latest Events',
+    'latest_events'            => 'Latest Events',
+    'no_events'                => 'No events yet.',
+    'to_add'                   => 'To add an offer, you must',
+    'register'                 => 'register',
+    'log_in'                   => 'log in',
+    'or'                       => 'or',
+    'recent_event'             => 'Most Recent Events',
+    'expired'                  => 'event has expired',
+    'status'                   => 'Status:',
+    'budget'                   => 'Budget:',
+];

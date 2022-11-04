@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'service'                     => 'Un service',
+    'description'                 => 'La description',
+    'services'                    => 'Le services',
+    'deletes'                     => 'Corbeille',
+    'all_services'                => 'Toutes les prestations',
+    'content_services'            => 'Description du service',
+    'create'                      => 'Créer un service',
+    'edit'                        => 'Modifier',
+    'NameService'                 => 'Titre du service',
+    'addService'                  => 'Ajouter un service',
+    'showServices'                => 'Afficher les services',
+    'deleted_services'            => 'Prestations supprimées',
+    'Show_deleted_services'       => 'Afficher les services supprimés',
+    'name'                        => 'Nom',
+    'add_new'                     => 'Ajouter',
+    'update'                      => 'Mettre à jour',
+    'restore'                     => 'Restaurer',
+    'price'                       => 'Le prix',
+    'address'                     => 'Adresse',
+    'available_date'              => 'Date disponible',
+    'delete_forever'              => 'Suppression définitive',
+    'DescriptionService'          => 'Toutes les rubriques. Si vous souhaitez créer et ajouter de nouvelles sections, vous devez cliquer sur le bouton (Créer un nouveau service) en haut de la page.',
+    'DescriptionService_delete'   => 'Tous les services supprimés. Si vous souhaitez créer et ajouter de nouvelles sections, vous devez cliquer sur le bouton (Créer un nouveau service) en haut de la page, et si vous souhaitez restaurer une section, appuyez sur (Restaurer) à côté de chaque service.',
+];

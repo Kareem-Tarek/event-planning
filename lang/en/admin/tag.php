@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'tag'                           => 'Tag',
+    'tags'                          => 'Tags',
+    'all_tags'                      => 'All Tags',
+    'create'                        => 'Create Tag',
+    'edit'                          => 'Edit',
+    'NameTag'                       => 'Tag Name',
+    'addTag'                        => 'Add New Tag',
+    'showTag'                       => 'Show tags',
+    'deleted_tags'                  => 'Deleted Tags',
+    'Show_deleted_tags'             => 'Show deleted tags',
+    'create_history'                => "Create History",
+    'enter_tag_name_ar'             => 'Enter the tag name in Arabic',
+    'enter_tag_name_en'             => 'Enter the tag name in English',
+    'enter_tag_name_fr'             => 'Enter the tag name in French',
+    'name'                          => 'Name',
+    'add_new'                       => 'Add',
+    'update'                        => 'Update',
+    'restore'                       => 'Restore',
+    'delete_forever'                => 'Permanent Delete',
+    'check_changes'                 => 'Check changes',
+    'DescriptionTag'                => 'All tags If you want to create and add new tags, you have to click on the (Add New Tag) button at the top of the page from the left.',
+    'DescriptionTag_delete'         => 'All deleted tags. If you want to create and add new sections, you must click the (Add New Tag) button at the top of the page, and if you want to restore any section, press (Restore) next to each tag.',
+];
