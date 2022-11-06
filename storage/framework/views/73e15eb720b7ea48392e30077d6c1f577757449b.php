@@ -15,4 +15,4 @@
 <?php echo $__env->yieldPushContent('css'); ?>
 <?php echo \Livewire\Livewire::styles(); ?>
 
-<?php /**PATH E:\laragon\www\events\resources\views/layouts/website/partials/css.blade.php ENDPATH**/ ?>
+<?php /**PATH E:\laragon\www\event-planning\resources\views/layouts/website/partials/css.blade.php ENDPATH**/ ?>

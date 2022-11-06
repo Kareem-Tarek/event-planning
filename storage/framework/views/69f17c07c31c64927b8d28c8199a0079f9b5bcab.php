@@ -130,4 +130,4 @@ unset($__errorArgs, $__bag); ?>
         <button type="submit" class="btn btn--green btn--with-shadow full-width"><?php echo e(__('website/home.send')); ?></button>
     </form>
 </div>
-<?php /**PATH E:\laragon\www\events\resources\views/livewire/contact-us.blade.php ENDPATH**/ ?>
+<?php /**PATH E:\laragon\www\event-planning\resources\views/livewire/contact-us.blade.php ENDPATH**/ ?>

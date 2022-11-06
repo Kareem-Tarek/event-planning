@@ -145,19 +145,21 @@ return [
     'profile'                                => 'Profil',
     'edit_profile'                           => 'Editer le profil',
     'faq'                                    => 'FAQ',
-    'footer_translation'                     => "Projet de fin d'études 2 (Groupe 6) - Système de planification d'événements",
-    'footer_translation2'                     => 'Développé par',
-    'footer_translation3'                    => 'Rencontrez notre équipe!',
-    'kareem_tarek'                           => 'Kareem Tarek', //team members in about us page (admin)
-    'mustafa_hesham'                         => 'Mustafa Hesham', //team members in about us page (admin)
-    'rawan_el_housseiny'                     => 'Rawan El-Housseiny', //team members in about us page (admin)
-    'sara_tamer'                             => 'Sara Tamer', //team members in about us page (admin)
-    'aseel_ahmed'                            => 'Aseel Ahmed', //team members in about us page (admin)
+    'developed_by_team_members_footer'       => 'Développé par',
+    'meet_our_team_btn_footer'               => 'Rencontrez notre équipe!',
+
+    'kareem_tarek'                           => 'Kareem Tarek', //team members in about us page
+    'ahmed_khalifa'                          => 'Ahmed Khalifa', //team members in about us page
+    'baraa_samy'                             => 'Baraa Samy', //team members in about us page
+
+    'kareem_linkedin_url'                    => "URL du profil LinkedIn de Kareem", //team members linkedin url in about us page
+    'khalifa_linkedin_url'                   => "URL du profil LinkedIn de Khalifa", //team members in about us page
+    'baraa_linkedin_url'                     => "URL du profil LinkedIn de Baraa", //team members in about us page
+
     'kareem'                                 => 'Kareem', //sub footer members' names of the team
-    'mustafa'                                => 'Mustafa', //sub footer members' names of the team
-    'rawan'                                  => 'Rawan', //sub footer members' names of the team
-    'sara'                                   => 'Sara', //sub footer members' names of the team
-    'aseel'                                  => 'Aseel', //sub footer members' names of the team
+    'khalifa'                                => 'Khalifa', //sub footer members' names of the team
+    'baraa'                                  => 'Baraa', //sub footer members' names of the team
+
     '&'                                      => 'et',
 
 ];

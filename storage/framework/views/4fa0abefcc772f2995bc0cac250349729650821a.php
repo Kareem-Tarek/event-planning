@@ -582,4 +582,4 @@
 <!-- /jQuery-scripts for Modules (Send Message) -->
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('layouts.website.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\laragon\www\events\resources\views/home.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('layouts.website.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\laragon\www\event-planning\resources\views/home.blade.php ENDPATH**/ ?>

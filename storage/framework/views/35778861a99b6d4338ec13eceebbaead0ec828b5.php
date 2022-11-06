@@ -5,4 +5,4 @@
 <?php elseif(session('error') ?? '' ): ?>
     <?php echo $__env->make('layouts.admin.partials.alert.error', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 <?php endif; ?>
-<?php /**PATH E:\laragon\www\events\resources\views/layouts/website/partials/messages/message.blade.php ENDPATH**/ ?>
+<?php /**PATH E:\laragon\www\event-planning\resources\views/layouts/website/partials/messages/message.blade.php ENDPATH**/ ?>

@@ -62,4 +62,4 @@
 <?php echo $__env->yieldContent('scripts'); ?>
 <?php echo \Livewire\Livewire::scripts(); ?>
 
-<?php /**PATH E:\laragon\www\events\resources\views/layouts/website/partials/js.blade.php ENDPATH**/ ?>
+<?php /**PATH E:\laragon\www\event-planning\resources\views/layouts/website/partials/js.blade.php ENDPATH**/ ?>

@@ -166,19 +166,16 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <span>
                             <span style="padding-top: 0.5%;">Copyright © 2022</span>
-                            <label class="sub-footer__link" style="font-size:21px;">{{__('admin/home.footer_translation')}}</label>
                         </span>
 
-                        <span>{{__('admin/home.footer_translation2')}}
-                            <a href="javascript:void(0)" style="color: red; font-weight:bold; cursor: context-menu;" onmouseover="this.style.color='black'" onmouseout="this.style.color='red'">{{__('admin/home.kareem')}}</a>,
-                            <a href="javascript:void(0)" style="color: purple; font-weight:bold; cursor: context-menu;" onmouseover="this.style.color='black'" onmouseout="this.style.color='#0083FF'">{{__('admin/home.mustafa')}}</a>,
-                            <a href="javascript:void(0)" style="color: orange; font-weight:bold; cursor: context-menu;" onmouseover="this.style.color='black'" onmouseout="this.style.color='orange'">{{__('admin/home.rawan')}}</a>,
-                            <a href="javascript:void(0)" style="color: green; font-weight:bold; cursor: context-menu;" onmouseover="this.style.color='black'" onmouseout="this.style.color='green'">{{__('admin/home.aseel')}}</a> {{__('admin/home.&')}}
-                            <a href="javascript:void(0)" style="color: rgb(235, 111, 132); font-weight:bold; cursor: context-menu;" onmouseover="this.style.color='black'" onmouseout="this.style.color='purple'">{{__('admin/home.sara')}}</a>
+                        <span>{{__('admin/home.developed_by_team_members_footer')}}
+                            <a href="https://www.linkedin.com/in/kareem-tarek-1899a71a0/" style="color: red; font-weight:bold;" onmouseover="this.style.color='black'" onmouseout="this.style.color='red'">{{__('admin/home.kareem')}}</a>,
+                            <a href="https://www.linkedin.com/in/ahmed-saeed-khalifa-98871123b/" style="color: green; font-weight:bold;" onmouseover="this.style.color='black'" onmouseout="this.style.color='green'">{{__('admin/home.khalifa')}}</a> {{__('admin/home.&')}}
+                            <a href="https://www.linkedin.com/in/baraadev/" style="color: rgb(235, 111, 132); font-weight:bold;" onmouseover="this.style.color='black'" onmouseout="this.style.color='purple'">{{__('admin/home.baraa')}}</a>
                         </span>
-                        <div style="background-color: #d3dae2; width: 16.5%; margin-left:auto; margin-right:auto; padding-top:0.25%; padding-bottom:0.25%; 
+                        <div style="background-color: #d3dae2; width: 16.5%; margin-left:auto; margin-right:auto; padding-top: 0.25%; margin-top: 0.5%; padding-bottom:0.25%; 
                                     border-radius:6px; font-weight: bold;" onmouseover="this.style.backgroundColor='#c4c9cf'" onmouseout="this.style.backgroundColor='#d3dae2'">
-                            <a href="https://events.dev/about-us#meet-our-team-about-us-page" style="color: #6987AB;">{{__('admin/home.footer_translation3')}}</a>
+                            <a href="javascript:void(0);" onclick="window.location='/about-us#meet-our-team-about-us-page'" style="color: #6987AB;">{{__('admin/home.meet_our_team_btn_footer')}}</a>
                         </div>
                     </div>
                 </div>

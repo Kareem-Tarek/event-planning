@@ -131,19 +131,21 @@ return [
     'profile'                           => 'الملف الشخصي',
     'edit_profile'                      => 'تعديل الملف الشخصي',
     'faq'                               => 'التعليمات',
-    'footer_translation'                => 'مشروع التخرج 2 (المجموعة 6) - نظام التخطيط للمناسبات',
-    'footer_translation2'                => 'طورت بواسطة',
-    'footer_translation3'               => 'التق بفريقنا!',
-    'kareem_tarek'                      => 'كريم طارق', //team members in about us page (admin)
-    'mustafa_hesham'                    => 'مصطفي هشام', //team members in about us page (admin)
-    'rawan_el_housseiny'                => 'روان الحسيني', //team members in about us page (admin)
-    'sara_tamer'                        => 'سارة تامر', //team members in about us page (admin)
-    'aseel_ahmed'                       => 'أسيل أحمد', //team members in about us page (admin)
+    'developed_by_team_members_footer'  => 'طورت بواسطة',
+    'meet_our_team_btn_footer'          => 'التق بفريقنا!',
+
+    'kareem_tarek'                      => 'كريم طارق', //team members in about us page
+    'ahmed_khalifa'                     => 'أحمد خليفة', //team members in about us page
+    'baraa_samy'                        => 'براء سامي', //team members in about us page
+
+    'kareem_linkedin_url'               => "عنوان URL لملف Kareem الشخصي على LinkedIn", //team members linkedin url in about us page
+    'khalifa_linkedin_url'              => "عنوان URL لملف Khalifa الشخصي على LinkedIn", //team members in about us page
+    'baraa_linkedin_url'                => "عنوان URL لملف Baraa الشخصي على LinkedInL", //team members in about us page
+
     'kareem'                            => 'كريم', //sub footer members' names of the team
-    'mustafa'                           => 'مصطفي', //sub footer members' names of the team
-    'rawan'                             => 'روان', //sub footer members' names of the team
-    'sara'                              => 'سارة', //sub footer members' names of the team
-    'aseel'                             => 'أسيل', //sub footer members' names of the team
+    'khalifa'                           => 'خليفة', //sub footer members' names of the team
+    'baraa'                             => 'براء', //sub footer members' names of the team
+
     '&'                                 => 'و',
 
 ];
