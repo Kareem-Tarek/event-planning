@@ -1,4 +1,4 @@
-### University graduation project
+### Event Planning Website
 
 GDP is a website build especially to help our customers all over Egypt set-up any kind of event by reaching all possible desired places concerning any event planning utility and compare prices in their own comfort at home online
 
